@@ -1,0 +1,47 @@
+.col-md-4 pic{
+    display: flex;
+    padding-bottom: 350px;
+    padding-left: 50px;
+    align-items: center;
+    height: 90vh;
+}
+.container {
+	width: 1000px;
+    height:500px;
+    background: #fff;
+	border-radius: 6px;
+	padding: 20px 60px 30px 40px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+	margin-left: 200px;
+	margin-top: 20px;
+    
+    
+  
+}
+.img1{
+    height:210px;
+    width:290px;
+}
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style:hidden;
+    background-color: #e8e4e4;
+    border-radius: 10px;
+  }
+
+  .profile-work{
+    margin-top: 30px;
+  }
+
+  .nav-item1{
+    margin-top: 50px;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+ 
+  
